@@ -1,0 +1,9 @@
+#include<iostream> // This is a header
+using namespace std;
+
+int main(){
+	
+	cout<<"Hello World"; // This will print the output as "Hello World"..
+	return 0;
+
+}
