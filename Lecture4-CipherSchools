@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+	int a=3,b=5,c=a+b;
+//	a=3;
+//	b=5;
+//	c=a+b;
+	cout<<c<<endl<<"a+b";
+//	cout<<"a+b";
+	return 0;
+}
